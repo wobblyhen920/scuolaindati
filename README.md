@@ -13,8 +13,8 @@
 
 | Repo | Descrizione |
 |------|-------------|
-| [**scuolaindati-scraper**](https://github.com/wobblyhen920/scuolaindati-scraper) | Scraping, normalizzazione e costruzione delle release |
-| [**scuolaindati-web**](https://github.com/wobblyhen920/scuolaindati-web) | Webapp React + API Go |
+| [**scuolaindati-scraper**](https://github.com/wobblyhen920/scuolaindati_scraper/tree/main) | Scraping, normalizzazione e costruzione delle release |
+| [**scuolaindati-webapp**](https://github.com/wobblyhen920/scuolaindati_webapp/tree/main) | Webapp React + API Go |
 
 ---
 
